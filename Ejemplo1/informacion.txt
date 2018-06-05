@@ -1,0 +1,2 @@
+﻿Este archivo fue creado con el proposito de probar
+la herramienta git desde la consola.
